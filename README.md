@@ -1,5 +1,5 @@
 # fomodealer
-Shows recently completed "fast" deals (under 15min) made in a 3commas paper account as they happen (with some occurence statistics) and outputs to discord
+Shows recently completed "fast" deals (under 10 min) made in a 3commas paper account as they happen (with some occurence statistics) and outputs to discord
 
 Add new c# console project
 
