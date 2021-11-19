@@ -5,6 +5,6 @@ Add new c# console project
 
 Add XCommas.Net and Discord.Net nuget packages
 
-Insert your api info
+Copy file over and insert your api info
 
 Enjoy
